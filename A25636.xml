@@ -1,0 +1,147 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An ansvver unto Mr. William Dell the right reformer his Epistle dedicatory to the Parliament</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A25636</idno>
+            <idno type="STC">Wing A3461</idno>
+            <idno type="STC">ESTC R25888</idno>
+            <idno type="EEBO-CITATION">09276212</idno>
+            <idno type="OCLC">ocm 09276212</idno>
+            <idno type="VID">42590</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A25636)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 42590)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1299:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An ansvver unto Mr. William Dell the right reformer his Epistle dedicatory to the Parliament</title>
+               </titleStmt>
+               <extent>7 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1646]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Dell, William, d. 1664.</term>
+               <term>Church and state --  Great Britain.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Pamphlets.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-07</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-07</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:42590:1"/>
+            <head>AN ANSVVER UNTO M<hi rend="sup">R.</hi> WILLIAM DELL THE <hi>RIGHT REFORMER</hi> His Epiſtle Dedicatory TO THE PARLIAMENT.</head>
+            <p>
+               <seg rend="decorInit">S</seg>IR, your Epiſtle, <hi>Janus</hi>-like, hath two faces, one looks to<g ref="char:EOLhyphen"/>ward the Parliament, to make them yours, the other to<g ref="char:EOLhyphen"/>ward your ſelves to make yours theirs; in your Sermon you break their heads, in your Epiſtle you binde them up: You flatter them with a ſeeming voluntary acknowledge<g ref="char:EOLhyphen"/>ment of their power, and your free ſubmiſſion thereunto; in your aſſertion of the power of the Goſpel, you utterly enfeeble it: how
+<pb n="2" facs="tcp:42590:2"/>comes it I pray to paſſe, that the juſt power of Magiſtracy is not conſiſt<g ref="char:EOLhyphen"/>ent with the Kingdome of Chriſt? and why may not the one ſupport the other? ſeeing that both ought to be held of Divine Right and inſtitution, <hi>Touch not mine anointed,</hi> by all the expoſitions of the beſt that ever expoſi<g ref="char:EOLhyphen"/>ted, is meant of both.</p>
+            <p>But Mr. <hi>Dell, qùo ore,</hi> with what face durſt, you terme the Presbyterian Government (not onely here eſtabliſht by Authority of the High Court of Parliament, but made choyce of, erected, conſtituted, embraced, main<g ref="char:EOLhyphen"/>tained and ſubmitted unto, from the very dawning of the Goſpel, and departure from <hi>Romes</hi> Idolatry, by all the Reformed Churches of Chri<g ref="char:EOLhyphen"/>ſtendome, as, That of <hi>France, Germany, Scotland,</hi> the <hi>Netherlands, Poland, Sweadland, Geneva, &amp;c.</hi> who all <hi>
+                  <g ref="char:V">Ʋ</g>na voce,</hi> have approved of this Diſci<g ref="char:EOLhyphen"/>pline and Government as the moſt conſonant to the word, and moſt op<g ref="char:EOLhyphen"/>poſite to the Romiſh Hierarchie (in that none but Prieſts ruling the Roſt, this conſiſting of a mixed temper, of Miniſters and Lay-Elders, one poy<g ref="char:EOLhyphen"/>ſing and balancing the too much powerfull influence of the other.) How durſt you, I ſay, give the reignes ſo farre unto your Anarchicall paſſion, or rather fury, as to call the ſaid Government, <hi>The laſt prop of Antichriſt in this Kingdome?</hi> yea, and that to the very face of thoſe that were by their power, not onely the promoters, but onely erectors of it: Hath the Par<g ref="char:EOLhyphen"/>liament, Mr. <hi>Dell,</hi> no better credit with you, than to be eſteemed the E<g ref="char:EOLhyphen"/>rectors of the <hi>laſt prop of Poperie in this Kingdome,</hi> for theſe ſix years ſpace? <hi>Tantum ſudavit &amp; alſit,</hi> in the pulling down of Popery, and of late, in lieu of recompence have they given it <hi>new props?</hi>
+            </p>
+            <p>Truely Sir, I fear me, very few of that honourable Houſe, like no bet<g ref="char:EOLhyphen"/>ter of your Epiſtle then they did of your Sermon: if any doe, I muſt needs confeſſe that I feare it the more: and whether a man may more wonder at Mr. <hi>Dells</hi> impudence or ignorance, I cannot ſay, who indevoureth to indeare the Parliament unto him, by ſcandalizing and diſparaging the Go<g ref="char:EOLhyphen"/>vernment now generally thorough-out the whole Kingdome eſtabliſhed by them, and not that <hi>temerè &amp; ex improviſo,</hi> but after long demurring, ſerious conſultation, deliberate debate, neither without the advice and counſell of the beſt and choyceſt Divines throughout the Reformed Chur<g ref="char:EOLhyphen"/>ches, and eſpecially of the Kirk of <hi>Scotland,</hi> our united Brethren; and the better to gaine credit unto his deſigne, Mr. <hi>Dell</hi> doth his utmoſt to increaſe the diſlike, that ſome perhaps in the Parliament might have againſt this al<g ref="char:EOLhyphen"/>ready ſetled Government, he ſticks not to write that it threatens even the Parliament to diſpute its ſuperiority with them, and to make the ſupreme
+<pb n="3" facs="tcp:42590:2"/>Magiſtracy of the Kingdome to ſtoop under their lore.</p>
+            <p>Who would have thought that after ſo much talk in the Sermon <hi>Of the enlargement of Chriſts Kingdome, of the exaltation of the Goſpel of Chriſt; the Word of Faith, Truth, and many the like good things;</hi> he ſhould fall to ſuch a malicious falſehood, in the <hi>Epiſtle Dedicatory?</hi> charging it with an aime at a power Paramount and predominant over the firſt Conſtitutors and Voters of it; which how farre ſwarving from truth, let all men judge who have either known or obſerved the behaviour of ſuch, that by electi<g ref="char:EOLhyphen"/>on have been intereſſed in the Presbyterie, whether Miniſters or Laicks, let their deportment, I ſay, be duly conſidered, in what dutifull reſpective manners it ever hath been toward this High Aſſembly, not leaving ex<g ref="char:EOLhyphen"/>cepted the Venerable Aſſembly of Divines, who never yet concluded any thing to be publiſhed concerning Reformation either in Church matters, or in manners, but in all humility they firſt preſented it to the view of the Honourable Houſe, attending uſually at the Houſe of Commons doore, and in their <hi>Theſes</hi> ſubmitting themſelves ſometimes to alteration, and li<g ref="char:EOLhyphen"/>mitation, alwayes unto approbation of the Honourable Houſes: which I dare affirm Mr. <hi>Dell,</hi> will not avouch that his Independent, and the reſt rabble of Sects that crowd themſelves under that name, either have done, or are about to doe, for then I think we ſhould hardly have ſuch diverſity of Conventicles and diverſities of Faiths broached in them by approve<g ref="char:EOLhyphen"/>ment of Parliament, as at this day we have, ſo notoriouſly known unto all: That in one ſtreet in <hi>London</hi> every Childe ſhall lead you to three; And where you ſhall have ſuch ſtuffe commended to you, by way of Divine inſpiration, to be beleeved and taken up as dogmatical points of Faith, and with a <hi>tantum non</hi> (none of Gods children, not comprehended in the But<g ref="char:EOLhyphen"/>tery ſcrowle of election in caſe of refuſall) That a man which hath onely the uſuall knowledge of the ordinary principles of Chriſtian Religion, if not out of mockage, yet out of a feeling compaſſion, muſt needs ſay, having heard them; Surely the blinde leads the blinde into the ditch.</p>
+            <p>Another paſſage in Mr. <hi>Dells Epiſtle Dedicatorie</hi> is this:</p>
+            <p>He likes not the ſpirituall power ſupporting by the temporall; it is An<g ref="char:EOLhyphen"/>ti-Chriſtian he ſaith and Papiſticall; Mr <hi>Dels</hi> aſſertion ſmels not much of antiquity, (as neither his Sect) for he may read in the Annals of the Chriſtian Primitive Church, long before any point of Popery was hatched, that men notable for ſanctity in thoſe times did paſſionately implore the aid and intermiſe of the ſword temporall toward the defence of the true Chriſtian verity, and the depreſſing, yea, extirpating of known Hereſies, as
+<pb n="4" facs="tcp:42590:3"/>in the buſineſſe of that Arch-Heretick <hi>Arius</hi> (and ſome that are of the Independent crue hold the ſame damnable tenents, or elſe they have much wrong) all men know that <hi>Conſtantine</hi> the great interpoſed his authority more then in any thing elſe, and not onely his authority but his Paines, in the extinguiſhing and condemning of that Hereſie, or otherwiſe it had ſpread its contagion farther, and with a more peremptory Vogue: and moreover if there had beene nothing worſe found among the late Biſhops, then that ſaying, no Biſhop no King, nor more diſpleaſing to God, or im<g ref="char:EOLhyphen"/>peaching the progreſſe of the Goſpell, for ought I know they might have ſtood ſtill, although maſter <hi>Dell</hi> may be pleaſed to be put in minde that he whoſe familiar ſpeech it was, (no Biſhop no King) was no Biſhop but a King, and a King the very Paragon for learning and wiſedome of all thoſe this Iſland ever ſaw: a Prince that was of opinion, that the licenti<g ref="char:EOLhyphen"/>ous liberty of Sectaries would produce as much danger to temporall Mo<g ref="char:EOLhyphen"/>narchy and State Government, as ever could or would the <hi>Pontificiall Ty<g ref="char:EOLhyphen"/>rannie,</hi> both agreeing in the pulling downe of civill Magiſtracie, though differing about the manner: and let Maſter <hi>Dell</hi> be told that the interpo<g ref="char:EOLhyphen"/>ſition of the civill power, or the requeſting the aſſiſtance of the ſame, in the maintenance of the undoubted faith of Chriſt, or an externall Eccle<g ref="char:EOLhyphen"/>ſiaſticke diſcipline, conſonant to the ſame (without which it is impoſible for the Orthodox doctrine long to conſiſt, diſcipline being the nerves and ſinnews by which a Church ſtands, as the doctrine, the food by which it is fed and nouriſhed) is neither the head nor the toe of Popery.</p>
+            <p>And let me be bold to ask Maſter <hi>Dell</hi> one queſtion, to what purpoſe tends his large invective againſt the Presbyteriall Government now ere<g ref="char:EOLhyphen"/>cted? what, to have none? I could not be ſo ill perſwaded of the man: whether then? marry to withdraw the Parliaments countenancing pro<g ref="char:EOLhyphen"/>tection from the Presbytery, and to place it upon them, that is the en<g ref="char:EOLhyphen"/>larging of the <hi>power of Chriſts Kingdome,</hi> the exaltation of <hi>the Goſpell of Chriſt, the propagation of the elect people,</hi> which I ſuppoſe the good man meanes: loe then ſee all well. May it pleaſe the Parliament to Vote down the Presbytery, as <hi>the laſt prop of Popery in this Kingdome,</hi> for interlacing it ſelfe with the temporall power, and craving its aid and ſuccours againſt thoſe that would bring in anarchicall confuſion, firſt into the Church, then into the ſtate, and <hi>eadem opera,</hi> let them be pleaſed to Vote Maſter <hi>Dels</hi> choſen flocke the onely <hi>Chriſtians,</hi> and his Government of Gods Church, (if he knew firſt himſelfe what it were or ſhould bee) let the Honourable Houſes, I ſay, but be pleaſed to doe thus, and behold, <hi>omnia
+<pb n="5" facs="tcp:42590:3"/>bene, the power of Chriſts Kingdome mightily enlarged, the exaltation of the Goſpel wonderfully furthered, &amp;c. hinc illa lacrymae,</hi> now I perceive what makes the world flocke ſo faſt unto Independency; what power or autho<g ref="char:EOLhyphen"/>rity ſoever ſupports them, ſtands for the enlargement of the power of <hi>Chriſts Kingdome, the exaltation of the Goſpell,</hi> the Priviledges of Chriſts choſen people, for the beauty of Saints, and what not? but let them beware that ſeek for ſupportation, not onely againſt them, but even by them, they are at leaſt, but the laſt prop of Anti-Chriſt in this Kingdome: who would wonder if all the world now turne Independent? feeing that one that depends on them may better ſteale a horſe, then a man of another minde looke over the hedge: but to be more ſerious, the baddeſt actions have ever made ſhew of the beſt pretenſions, the fouleſt Hereſies have ſti<g ref="char:EOLhyphen"/>led themſelves by the moſt ſpecious titles; the Arians would be called by no other name but Catholick, although their curſed Blaſphemie, impug<g ref="char:EOLhyphen"/>ned the maineſt point in all Chriſtianity; it is an old ſaying, the Devill doth never ſhew his Cloven foot at firſt; Schiſme is like the Panther, whoſe skin being of a ſweet ſent, and beautifull ſpotted colour, whereby he draws many other beaſts toward him, which approaching neare, are forthwith affrighted with the uglineſſe of his head; wherefore the better to be maſter of his prey, he diſcovers not that till he have them in his power; it is a truth infallible, that Schiſmes and Faction evermore in their firſt riſing put on the face of woman, but in their growth that of a lyon: the behaviour of the Anabaptiſts at <hi>Magdeburg</hi> in <hi>Germany,</hi> though long ſince, yet by reaſon of other Sects in theſe our dayes, not much different in opinions, and leſſe in practice, is a freſh revived in our memo<g ref="char:EOLhyphen"/>ries; good God, what Sanctity, piety, humility, ſimplicity did thoſe Jug<g ref="char:EOLhyphen"/>lers ſhew at firſt? what charity and contempt of worldly mucke? ſo that they drew the whole Generality of the City after them, with the ſelf ſame ſaying in their mouths which ſometime the <hi>Samaritans</hi> uſed toward <hi>Si<g ref="char:EOLhyphen"/>mon Magus,</hi> ſurely theſe men are the great power of God; at length when their poore deceived proſelites began to grow numerous, they poſ<g ref="char:EOLhyphen"/>ſeſt them that the power of the civill magiſtrate was Heatheniſh and Anti-Chriſtian; that Chriſts true Diſciples muſt be all equall; neither were they defective in alleadging Scripture for this their project, ill under<g ref="char:EOLhyphen"/>ſtood and worſe applyed. <hi>Christs Kingdome is not of this world ſay they, he that will be the greateſt amongſt you, let him be as your ſervant; the Kings and Princes of the earth beare rule, and exerciſe</hi> power over them, <hi>but with you not ſo. Doe not rich men trouble you, bringing you into judgement ſaith St.</hi> James.
+<pb n="6" facs="tcp:42590:4"/>What concluſions draw they from theſe texts? why ſurely that all civill Magiſtracy is Anti-Chriſtian, (though thoſe that bare it at that time in that towne were known to be zealous maintainers of the Goſpell) it muſt have nothing to do with Gods choſen; they that did deſire to be ſup<g ref="char:EOLhyphen"/>ported by it in matter of faith, or for their better ſtrengthning did re<g ref="char:EOLhyphen"/>queſt the countenance of the ſame toward the bearing up of the Church diſcipline eſtabliſhed in that famous City: from theſe infuſions what fol<g ref="char:EOLhyphen"/>lows? The Comminalty riſeth againſt their lawfull Magiſtrates, not onely degrades them, but butchers them; next the Miniſters drinke of the ſame cup, for no other fault, but that fearing the ſtorme approaching, and ad<g ref="char:EOLhyphen"/>vertiſing the civill Magiſtracy of its growth and proceeding, they beſought them for the ſuppreſſing of this ſwelling faction, and upholding of the anciently ſetled Government in that Church; but becauſe they ſought the maintenance of the lawfull Eccleſiaſtick Government by the civill ſword (which then was a toe or a ſinger of Anti-Chriſt, as it is now) therefore they taſted of the ſame ſawce with them: but what did the good Ant<g ref="char:EOLhyphen"/>baptiſts after this? what did they not? but to particulariſe what the Hi<g ref="char:EOLhyphen"/>ſtory mentioneth, they fell afterwards upon their owne proſelites, cut the throates of them, ſeized not onely the goods of all Citizens, but the ſtate it ſelfe, brought a text of Scripture to warrant it, though themſelves would be thereof the expoſitors, The <hi>meek ſhall inherit the Earth:</hi> This ſtory wants no application. Men muſt not look ſo much upon the words and ſhews as the practices of raiſers of factions; and as touching Maſter <hi>Dell,</hi> although thorough the whole courſe of his Sermon there is great talke of the ſpirit of meekneſſe, the ſpirit of humility, obedience, and the like; and in the cloſe of his Epiſtle Dedicatory, much aſſurance offe<g ref="char:EOLhyphen"/>red unto the Parliament of his utmoſt endeavours, in relation to obedi<g ref="char:EOLhyphen"/>ence to their authority; yet ſee how Maſter <hi>Dell</hi> hath thwarted both, in his practice; he virulently laſheth Maſter <hi>Love,</hi> twits him in the teeth, <hi>with his diſcerning people,</hi> chargeth him <hi>with menacing</hi> of the Parliament in caſe of deſertion from them, puts him in the number of the fingers and toes of Anti Chriſt: this action of Maſter <hi>Dell</hi> naming expreſly the party rather reſcents of nature then grace, of gall then meekneſſe, of malice then charity; nay, rather then Maſter <hi>Dell</hi> will miſſe to laſh him, he will hazard the reputation of the cloſe to his Epiſtle, and venters the queſtio<g ref="char:EOLhyphen"/>ning of his obedience to the Parliament ſo vehemently and ſeriouſly by him proteſted: for doth Mr <hi>Dell</hi> print his ſermon in obedience to the Ho<g ref="char:EOLhyphen"/>nourable Houſe? I am given to underſtand the contrary; that the Houſe
+<pb n="7" facs="tcp:42590:4"/>ordered him neither thankes nor order to print it, but forbid both: yet Mr. <hi>Dell</hi> out of an humble obedience, if not to them, yet to Chriſt, will print it, and with an Epiſtle Dedicatory to the Houſe alſo: to ſpeak <hi>bona ſi<g ref="char:EOLhyphen"/>de</hi> and <hi>ſublata larva,</hi> I think three were the cauſes that prevailed with Mr. <hi>Dell</hi> to print his Sermon, though miſliked, though forbidden.</p>
+            <p>Firſt, that he might be before-hand with Mr. <hi>Love</hi> in the Preſſe, though he had had the precedency of him in the Pulpit, and to foreſtall mens judgements, both toward him and his Sermon, a thing much practiſed in this claſhing Age, to cry whore firſt. The ſecond reaſon of the Printing of his Sermon was his zeale, to ſhew his diſlike in the Preſſe, as he had of<g ref="char:EOLhyphen"/>ten done before in the Pulpit of the Presbyterian form and Rule, as a <hi>prop of popery,</hi> and obſtacle to the <hi>inlargement of the Kingdome of Jeſus Chriſt:</hi> deſiring rather then that (or any other ſhould ſtand) there might be none at all, and ſo the peculiar people may doe and live as they liſt, who ſhould controll them that have the ſpirit of illumination and inſpiration <hi>ad nutum?</hi> yet this puts me in minde of what I read in one place of <hi>Samuel, And th<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n there was no King in</hi> Iſrael, what follows? <hi>
+                  <g ref="char:V">Ʋ</g>nusquiſque fecit quod ſibi viſum fuerit,</hi> Every one did what was right in his own eyes, and that was wrong enough I beleeve. The third reſpect, for which Mr. <hi>Dell</hi> pub<g ref="char:EOLhyphen"/>liſhed this Sermon, was, I beleeve, becauſe he was not licenſed by the Houſe to publiſh it, Nor no thanks returned him for it, Mr. <hi>Dell</hi> follow<g ref="char:EOLhyphen"/>ing the Trade-wind of his Faction, muſt needs doe it the readier for that; and reaſon enough he had to put him forward, for his party hath never gained more credit than by croſſing Authority: And had Mr. <hi>Dells</hi> diſ<g ref="char:EOLhyphen"/>courſe been ſuch that might have been thought worthy to have been Li<g ref="char:EOLhyphen"/>cenſed by the Houſe, it would never have purchaſed him that repute a<g ref="char:EOLhyphen"/>mongſt his as now it hath; for nothing is cryed up amongſt them, <hi>Niſi quod nititur in vetitum.</hi>
+            </p>
+            <p>But what meanes Mr. <hi>Dell,</hi> by that pathetick Latine Theme in the foot of the frontiſpiece to his book? <hi>Theologum me crede in regno veritatis natum, ero itaque, &amp;c.</hi> What reaſon had Mr. <hi>Dell, tam gravem proferre ſententiam in materia tam levi;</hi> Mr. <hi>Dell</hi> gives the Alarm here, <hi>tanquam Annibal ad portas,</hi> as if all were in denger to be loſt, true piety trampled under foot, true Religion baniſhed, Chriſts Kingdome vanquiſhed, unleſſe all ſtrike ſale unto Independency, whereof he profeſſeth himſelf an aſſerter <hi>ad mor<g ref="char:EOLhyphen"/>tem &amp; ſanguinem uſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan>
+               </hi> I find in all ages that all Innovators are of <hi>Bruce</hi> his temper, <hi>quicquid volunt valdè volunt;</hi> rather then they will want their wills, <hi>Coelum terra miſcendum.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
